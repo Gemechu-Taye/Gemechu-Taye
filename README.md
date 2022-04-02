@@ -23,17 +23,25 @@ const Gemechu = {
 };
 ```
 
-<!--
 **Gemechu-Taye/Gemechu-Taye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on 100Daysofcode Challange
+- 🌱 I’m currently learning Frontend Development using MERN stack
+- 👯 I’m looking to collaborate check my [YC](https://www.startupschool.org/cofounder-matching/candidate/uE9YUB3qO) page
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about web development
+- 📫 How to reach me: check below
+- 😄 Pronouns: Ge
+- ⚡ Fun fact: 
+
+
+## 📧 Contact Me
+
+The preferred way to reach me is over e-mail but for convenience I have added several methods below:
+
+- 📧 Email <a href="mailto:geme.t07@gmail.com">geme.t07@gmail.com</a>
+- 🖇 LinkedIn <a href="https://www.linkedin.com/in/gemechutaye/">Gemechu-Taye</a>
+- 🐦 Twitter <a href="https://twitter.com/aalemayhu">@realGemechuTaye</a>
+
