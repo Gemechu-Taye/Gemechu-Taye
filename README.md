@@ -2,7 +2,7 @@
 
 Hiya there 👋🏾 I was born in Ethiopia (Jimma) but now I'm living in India (Bengaluru) and studying Computer Science and I'm a Frontend Software Engineer.
 
-I love learning new things especially about spoken and programming languages. I have been writing code since 2015 and started working professionally as a developer in 2020. When I am not studying I am learning about web design, teaching, writing, and playing tennis. 💫
+I love learning new things especially about spoken and programming languages. I have been writing code since 2015 and started working professionally as a developer in 2020. When I am not going to class I am learning about web design, teaching, writing, and playing tennis. 💫
 
 <!-- 
 <p align="center">
