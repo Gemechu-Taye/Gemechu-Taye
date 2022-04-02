@@ -51,5 +51,5 @@ The preferred way to reach me is over e-mail but for convenience I have added se
 
 - 📧 Email <a href="mailto:geme.t07@gmail.com">geme.t07@gmail.com</a>
 - 🖇 LinkedIn <a href="https://www.linkedin.com/in/gemechutaye/">Gemechu-Taye</a>
-- 🐦 Twitter <a href="https://twitter.com/aalemayhu">@realGemechuTaye</a>
+- 🐦 Twitter <a href="https://twitter.com/realGemechuTaye">@realGemechuTaye</a>
 
