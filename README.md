@@ -1,4 +1,4 @@
-### 🫶 Gemechu Taye 👨🏽‍💻
+# 🫶 Gemechu Taye 👨🏽‍💻
 
 Hiya there 👋🏾 I was born in Ethiopia (Jimma) but now I'm living in India (Bengaluru) and studying Computer Science and I'm a Frontend Software Engineer.
 
