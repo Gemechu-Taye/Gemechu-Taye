@@ -32,7 +32,7 @@ const Gemechu = {
 <br>
 ✨ Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 100Daysofcode Challange
+- 🔭 I’m currently working on #100DaysOfCode Challange
 - 🌱 I’m currently learning Frontend Development using MERN stack
 - 👯 I’m looking to collaborate check my [YC](https://www.startupschool.org/cofounder-matching/candidate/uE9YUB3qO) page
 - 😄 Pronouns: Ge
