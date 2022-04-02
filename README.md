@@ -1,4 +1,4 @@
-### Gemechu Taye
+### Gemechu Taye <img scr="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/325/man-technologist_1f468-200d-1f4bb.png">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
