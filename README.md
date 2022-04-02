@@ -1,4 +1,8 @@
-### Hiya there 👋🏾 I was born in Ethiopia (Jimma) but now I'm living in India (Bengaluru) and studying Computer Science and I'm a Frontend Software Engineer.
+### Gemechu Taye
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+Hiya there 👋🏾 I was born in Ethiopia (Jimma) but now I'm living in India (Bengaluru) and studying Computer Science and I'm a Frontend Software Engineer.
 
 I love learning new things especially about spoken and programming languages. I have been writing code since 2015 and started working professionally as a developer in 2020. When I am not studying I am learning about web design, teaching, writing and playing tennis.
 
