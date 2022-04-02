@@ -1,4 +1,4 @@
-# 🫶 Gemechu Taye 👨🏽‍💻
+#Gemechu Taye 👨🏽‍💻
 
 Hiya there 👋🏾 I was born in Ethiopia (Jimma) but now I'm living in India (Bengaluru) and studying Computer Science and I'm a Frontend Software Engineer.
 
@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 100Daysofcode Challange
 - 🌱 I’m currently learning Frontend Development using MERN stack
 - 👯 I’m looking to collaborate check my [YC](https://www.startupschool.org/cofounder-matching/candidate/uE9YUB3qO) page
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about web development
-- 📫 How to reach me: check below
 - 😄 Pronouns: Ge
+
+<!-- - 🤔 I’m looking for help with ... 
+- 📫 How to reach me: check below
 - ⚡ Fun fact: 
+- 💬 Ask me about web development
+-->
 
 
 ## 📧 Contact Me
