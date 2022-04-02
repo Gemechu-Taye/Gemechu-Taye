@@ -1,4 +1,4 @@
-# Gemechu Taye 👨🏽‍💻
+# Gemechu Taye 👨🏽‍💻✨
 
 Hiya there 👋🏾 I was born in Ethiopia (Jimma) but now I'm living in India (Bengaluru) and studying Computer Science and I'm a Frontend Software Engineer.
 
@@ -23,23 +23,22 @@ const Gemechu = {
 };
 ```
 
-**Gemechu-Taye/Gemechu-Taye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+✨ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 100Daysofcode Challange
 - 🌱 I’m currently learning Frontend Development using MERN stack
 - 👯 I’m looking to collaborate check my [YC](https://www.startupschool.org/cofounder-matching/candidate/uE9YUB3qO) page
 - 😄 Pronouns: Ge
 
-<!-- - 🤔 I’m looking for help with ... 
+<!-- **Gemechu-Taye/Gemechu-Taye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 I’m looking for help with ... 
 - 📫 How to reach me: check below
 - ⚡ Fun fact: 
 - 💬 Ask me about web development
 -->
 
 
-## 📧 Contact Me
+## 📧 Contact Me ✨
 
 The preferred way to reach me is over e-mail but for convenience I have added several methods below:
 
