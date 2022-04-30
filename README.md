@@ -13,6 +13,7 @@ I love learning new things especially about spoken and programming languages. I 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <br>
 
+
 ```javascript
 const Gemechu = {
     pronouns: "He" | "Him",
@@ -34,7 +35,7 @@ const Gemechu = {
 
 - 🔭 I’m currently working on #100DaysOfCode Challange
 - 🌱 I’m currently learning Frontend Development using MERN stack
-- 👯 I’m looking to collaborate check my [YC](https://www.startupschool.org/cofounder-matching/candidate/uE9YUB3qO) page
+- 👯 I’m looking to collaborate check my [YC](https://www.startupschool.org/cofounder-matching/candidate/uE9YUB3qO) page.
 - 😄 Pronouns: Ge
 
 <!-- **Gemechu-Taye/Gemechu-Taye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
