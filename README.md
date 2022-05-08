@@ -42,7 +42,7 @@ const Gemechu = {
 - 🤔 I’m looking for help with ... 
 - 📫 How to reach me: check below
 - ⚡ Fun fact: 
-- 💬 Ask me about web development
+- 💬 Ask me about web development.
 -->
 
 
